@@ -1,0 +1,21 @@
+id: I340B9EC1
+initial_creation_type: ebook
+source_metadata:
+  id: BOK-020
+  title: སྔོན་འགྲོའི་ཁྲིད་ཡིག་མུན་གསལ་སྒྲོན་མེ།
+  author: མཛད་པ་པོ། ཀརྨ་ངེས་དོན་བསྟན་རྒྱས།
+  authors: &id001
+  - མཛད་པ་པོ། ཀརྨ་ངེས་དོན་བསྟན་རྒྱས།
+  sku: BOK-020
+  cover: BOK-020.jpg
+  volume: {}
+ebook_metadata:
+  title: སྔོན་འགྲོའི་ཁྲིད་ཡིག་མུན་གསལ་སྒྲོན་མེ།
+  authors: *id001
+  sku: BOK-020
+  cover: BOK-020.jpg
+layers:
+- Author
+- BookTitle
+- Chapter
+- Commentary
